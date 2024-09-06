@@ -102,7 +102,7 @@ public class CoffeShop extends javax.swing.JFrame {
         jLabel10.setText("Coffe Shop");
         jLabel10.setAutoscrolls(true);
         jLabel10.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        jPanel3.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 10, 230, 60));
+        jPanel3.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 10, 290, 60));
 
         radcaffe.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         radcaffe.setText("Espresso");
